@@ -1,0 +1,94 @@
+﻿{
+    "Item": {
+        "Name": "Project",
+        "Size": 0,
+        "CompressedSize": 0
+    },
+    "Children": [{
+        "Item": {
+            "Name": "Runtime",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/VideoDemo/html5/release/build/runtime.js",
+                "Size": 758382,
+                "CompressedSize": 155555
+            }
+        }]
+    }, {
+        "Item": {
+            "Name": "Assets",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "JavaScript",
+                "Size": 408,
+                "CompressedSize": 0
+            }
+        }, {
+            "Item": {
+                "Name": "Assets/TinySamples/VideoDemo/SampleVideo.mp4",
+                "Size": 0,
+                "CompressedSize": 0,
+                "Object": { "$TypeId": 10, "Guid": "bbf3bbf02baaa44af845b34d0d70c7af", "FileId": 32900000, "Type": 3 }
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/VideoDemo/html5/release/artifacts/assets/SampleVideo.mp4",
+                    "Size": 1055736,
+                    "CompressedSize": 1054399,
+                    "Object": { "$TypeId": 10, "Guid": "bbf3bbf02baaa44af845b34d0d70c7af", "FileId": 32900000, "Type": 3 }
+                }
+            }]
+        }]
+    }, {
+        "Item": {
+            "Name": "Code",
+            "Size": 0,
+            "CompressedSize": 0
+        },
+        "Children": [{
+            "Item": {
+                "Name": "TinyExport/VideoDemo/html5/release/build/entities.js",
+                "Size": 1626,
+                "CompressedSize": 648
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "NewEntityGroup",
+                    "Size": 1545,
+                    "CompressedSize": 579
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/VideoDemo/html5/release/build/bindings.js",
+                "Size": 71529,
+                "CompressedSize": 5487
+            }
+        }, {
+            "Item": {
+                "Name": "TinyExport/VideoDemo/html5/release/build/code.js",
+                "Size": 3253,
+                "CompressedSize": 1001
+            },
+            "Children": [{
+                "Item": {
+                    "Name": "TinyExport/VideoDemo/html5/release/artifacts/scripts/tsc-emit.js",
+                    "Size": 3168,
+                    "CompressedSize": 927
+                }
+            }]
+        }, {
+            "Item": {
+                "Name": "TinyExport/VideoDemo/html5/release/build/main.js",
+                "Size": 1901,
+                "CompressedSize": 683
+            }
+        }]
+    }]
+}
